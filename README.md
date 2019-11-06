@@ -4,6 +4,7 @@ Helpful links:
 - Supreme extension: https://github.com/val92130/Supreme-Auto-Checkout
 
 - Supreme keyword retrieval: https://github.com/bobbypine/SupremeManualBot
+  - can use the keyword.py to learn how to scrap for keywords and retrieve links 
 
 
 
